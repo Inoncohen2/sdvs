@@ -1,0 +1,11 @@
+{
+  "name": "lumina-blog",
+  "version": "1.0.0",
+  "description": "A minimalist, high-performance blog template.",
+  "scripts": {
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  }
+}
